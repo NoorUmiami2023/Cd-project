@@ -7,3 +7,5 @@ summary(model_idv_avg)
 
 model1 <- glm(formula = Average~Treatment+Sex, data = idv_swim)
 summary(model1)
+
+# git
